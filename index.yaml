@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  dkProject:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-12-29T22:03:25.251540578+01:00"
+    description: A Helm chart for my dkProject
+    digest: 8e7a5806de80a3e2fd7359990300845ff1ee20629a7c7b3e2ac00b5df897feee
+    maintainers:
+    - email: mohammedbenhammoute0@gmail.com
+      name: mohammedbenhammoute
+    name: dkProject
+    type: application
+    urls:
+    - https://github.com/Mohammed-BENHAMMOUTE/dkProject/dkProject-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-29T22:03:25.250668896+01:00"
