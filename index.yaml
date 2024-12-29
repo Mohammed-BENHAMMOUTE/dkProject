@@ -3,9 +3,9 @@ entries:
   dkProject:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-29T22:15:56.444802955+01:00"
+    created: "2024-12-29T22:18:27.153965302+01:00"
     description: A Helm chart for my dkProject
-    digest: 950fed2f4af3076c0b669e0e578983fbb62967e48d6433d3d3e0fb62ca3426f0
+    digest: 79ffe5cb9820c117a7c399008676b2260d38bc3f2ea329b6d00375ccf86bfc57
     maintainers:
     - email: mohammedbenhammoute0@gmail.com
       name: mohammedbenhammoute
@@ -14,4 +14,4 @@ entries:
     urls:
     - https://mohammed-benhammoute.github.io/dkProject/dkProject-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-29T22:15:56.432404694+01:00"
+generated: "2024-12-29T22:18:27.15307904+01:00"
